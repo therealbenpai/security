@@ -1,0 +1,6 @@
+Contact: mailto:ben@benshawmean.com
+Contact: https://benshawmean.com/contact
+Expires: 2029-12-31T11:59:00Z
+Encryption: https://keys.openpgp.org/search?q=AA9B0130E794BF62C0FA240CE9469FAA8B44BB16
+Policy: https://github.com/therealbenpai/security
+Preferred-Languages: en
